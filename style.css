@@ -90,7 +90,7 @@ a{
     width: 15%;
 }
 .btn {
-    font-size: 30px;
+    
     border: 1px solid #6278df;
     border-radius: 5px;
     display: inline-block;
@@ -99,13 +99,14 @@ a{
     padding: 6px 27px;
     transition: .5s;
     color: black;
-    background: violet;
+    background: white;
     font-size: 20px;
 }
 .btn:hover{
     background: #6480e1;
     color: white;
     border: white;
+    border: 1px solid #6480e1;
 }
 
 .banner{
