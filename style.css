@@ -235,11 +235,11 @@ a{
     padding: 45px;
     border-radius: 10px;
     transition: .9s;
-    coloe:#767676;
+  
 }
 .service-box:hover {
     background: #fff;
-    color: #767676;
+    color: black;
     box-shadow: 4px 4px 20px 0;
 }
 .s-icon{
@@ -256,6 +256,7 @@ a{
 }
 .s-contant p{
     font-size: 20px;
+    color:#767676;
 }
 
 /* USER SECTION */
